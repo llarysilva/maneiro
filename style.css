@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(143, 97, 150);
+}
+.eu {
+    background-color: rgb(61, 17, 78);
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
+.insta p {
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.insta a {
+    text-decoration: none;
+    color: rgb(148, 147, 152);
+    text-align: center;
+}
+.insta a:hover {
+    color: blueviolet;
+}
+.conteudo h1{
+    text-align: center;
+    color: rgb(233, 185, 240);
+}
+.sites a {
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+    text-decoration: underline;
+    transition: all 1s ease;
+}
+.sites a:hover {
+    color: purple;
+    transform: scale(1.5);
+}
+
+.sites p {
+    text-align: center;
+}
