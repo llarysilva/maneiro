@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(143, 97, 150);
+    background-color: rgb(17, 1, 19);
 }
 .eu {
-    background-color: rgb(61, 17, 78);
-    width: 70%;
+    background-color: rgb(48, 2, 66);
+    width: 90%;
     margin: auto;
     padding: 20px;
     border-radius: 10px 10px 10px 10px;
@@ -26,12 +26,13 @@ body {
 .conteudo h1{
     text-align: center;
     color: rgb(233, 185, 240);
+    font-weight: 100;
 }
 .sites a {
     text-align: center;
     color: aliceblue;
     font-size: 20px;
-    text-decoration: underline;
+    text-decoration: none;
     transition: all 1s ease;
 }
 .sites a:hover {
